@@ -1,14 +1,14 @@
-# ActiveInferenceICub
+# ActiveInference-iCub
 
 This is the repository of body perception and action via active inference for the iCub humanoid robot.
 
+<img src="/media/icubalgo.png" width="600">
+
 Explanation of the approach can be found in the following papers:
 
-[1] Under review.
+[1] Oliver, G., Lanillos, P., & Cheng, G. (2019). Active inference body perception and action for humanoid robots. arXiv preprint arXiv:1906.03022.
 
-[2] Oliver, G., Lanillos, P., & Cheng, G. (2019). Active inference body perception and action for humanoid robots. arXiv preprint arXiv:1906.03022.
-
-[3] Lanillos, P., & Cheng, G. (2018, October). Adaptive robot body learning and estimation through predictive coding. In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 4083-4090). IEEE.
+[2] Lanillos, P., & Cheng, G. (2018, October). Adaptive robot body learning and estimation through predictive coding. In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 4083-4090). IEEE.
 
 ## Requirements
 
