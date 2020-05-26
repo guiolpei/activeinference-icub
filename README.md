@@ -10,6 +10,10 @@ Explanation of the approach can be found in the following papers:
 
 [2] Lanillos, P., & Cheng, G. (2018, October). Adaptive robot body learning and estimation through predictive coding. In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 4083-4090). IEEE.
 
+Video footage of the algorithm operation is available in the following video:
+
+[<img src="https://img.youtube.com/vi/_70nCrKeczc/maxresdefault.jpg" width="50%">](https://youtu.be/_70nCrKeczc)
+
 ## Requirements
 
 *  iCub humanoid robot v1.4.
