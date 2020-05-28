@@ -12,7 +12,7 @@ Explanation of the approach can be found in the following papers:
 
 Video footage of the algorithm operation is available in the following video:
 
-[<img src="https://img.youtube.com/vi/_70nCrKeczc/maxresdefault.jpg" width="50%">](https://youtu.be/_70nCrKeczc)
+[<img src="https://img.youtube.com/vi/C5B4WUCQx1A/maxresdefault.jpg" width="50%">](https://youtu.be/C5B4WUCQx1A)
 
 ## Requirements
 
