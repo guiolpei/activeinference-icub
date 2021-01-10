@@ -6,9 +6,11 @@ This is the repository of body perception and action via active inference for th
 
 Explanation of the approach can be found in the following papers:
 
-[1] Oliver, G., Lanillos, P., & Cheng, G. (2019). Active inference body perception and action for humanoid robots. arXiv preprint arXiv:1906.03022.
+[1] G. Oliver, P. Lanillos and G. Cheng (2021). "An empirical study of active inference on a humanoid robot," in IEEE Transactions on Cognitive and Developmental Systems, doi: <a href="https://doi.org/10.1109/TCDS.2021.3049907">10.1109/TCDS.2021.3049907</a>.
 
-[2] Lanillos, P., & Cheng, G. (2018, October). Adaptive robot body learning and estimation through predictive coding. In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 4083-4090). IEEE.
+[2] Oliver, G., Lanillos, P., & Cheng, G. (2019). Active inference body perception and action for humanoid robots. arXiv preprint arXiv:1906.03022.
+
+[3] Lanillos, P., & Cheng, G. (2018, October). Adaptive robot body learning and estimation through predictive coding. In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 4083-4090). IEEE.
 
 Video footage of the algorithm operation is available in the following video:
 
