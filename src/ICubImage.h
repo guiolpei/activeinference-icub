@@ -42,6 +42,8 @@
 //#include <opencv2/imgcodecs.hpp>
 #include <opencv2/features2d/features2d.hpp> //BlobDetector
 #include <opencv2/highgui/highgui.hpp> //cvtColor, cvNamedWindow, cvShowImage
+#include <opencv2/objdetect.hpp> //CascadeClassifier
+#include <opencv2/calib3d.hpp>
 
 //Yarp
 #include <yarp/os/all.h> //OS

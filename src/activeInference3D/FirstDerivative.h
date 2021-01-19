@@ -31,6 +31,7 @@
 #include <cmath> //math functions
 #include <mutex> //mutex
 #include <eigen3/Eigen/Dense> //eigen dense matrix algebra
+#include <random>
 
 #include "mdefs.h" //Mathematica equivalents
 
